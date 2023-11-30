@@ -18,9 +18,9 @@ This project used the following Syncfusion control(s):
 
 ## Requirements to run the sample
 
-* [Visual Studio 2022 Preview](https://learn.microsoft.com/en-us/visualstudio/releases/2022/release-notes-preview) version 17.6.0 or higher (.NET MAUI version 6.0.552) with .NET 6.0 and .NET 7.0
-* [Microsoft Visual Studio 2022](https://learn.microsoft.com/en-us/visualstudio/releases/2022/release-notes) version 17.5.1 with (.NET MAUI version 6.0.552) with .NET 6.0 and .NET 7.0
-* [Visual Studio 2022 for Mac](https://visualstudio.microsoft.com/vs/mac) version 17.5 (.NET MAUI version 6.0.552) with .NET 6.0 and .NET 7.0
+* [Visual Studio 2022 Preview](https://learn.microsoft.com/en-us/visualstudio/releases/2022/release-notes-preview) version 17.6.0 or higher (.NET MAUI version 6.0.552) with .NET 7.0 and .NET 8.0
+* [Microsoft Visual Studio 2022](https://learn.microsoft.com/en-us/visualstudio/releases/2022/release-notes) version 17.5.1 with (.NET MAUI version 6.0.552) with .NET 7.0 and .NET 8.0
+* [Visual Studio 2022 for Mac](https://visualstudio.microsoft.com/vs/mac) version 17.5 (.NET MAUI version 6.0.552) with .NET 7.0 and .NET 8.0
 
 Refer to the following link for more details: [System Requirements](https://help.syncfusion.com/maui/system-requirements)
 
